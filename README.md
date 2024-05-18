@@ -1,2 +1,3 @@
 # Univariate_time_series
-Contains the analysis, processing, visualizations and conclusions about a univariate time series.
+It has a unique, deep and different insight into NYC's public transportation system. Contains data preprocessing, visualizations and most important conclusions.
+The results are promising.
